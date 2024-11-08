@@ -105,6 +105,18 @@
     </build>
 
     <dependencies>
+        <dependency>
+            <groupId>com.github.xjw580.Hearthstone-Script</groupId>
+            <artifactId>hs-script-base</artifactId>
+            <version>v4.1.1-TEST</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.github.xjw580.Hearthstone-Script</groupId>
+            <artifactId>hs-script-card-sdk</artifactId>
+            <version>v4.1.1-TEST</version>
+            <scope>provided</scope>
+        </dependency>
         <!--套牌插件SDK-->
         <dependency>
             <groupId>com.github.xjw580.Hearthstone-Script</groupId>

@@ -7,26 +7,26 @@ import club.xiaojiawei.DeckPlugin
 class TemplatePlugin: DeckPlugin {
     override fun description(): String {
 //        插件的描述
-        return "模板插件描述"
+        return "适用于大哥萨的套牌策略"
     }
 
     override fun author(): String {
 //        插件的作者
-        return "XiaoJiawei"
+        return "Dnull_P"
     }
 
     override fun version(): String {
 //        插件的版本号
-        return "1.0.0-template"
+        return "1.0.0-dev"
     }
 
     override fun id(): String {
-        return "插件的唯一id"
+        return "big_bro_scheme"
     }
 
     override fun name(): String {
 //        插件的名字
-        return "模板插件"
+        return "大哥萨策略"
     }
 
     override fun homeUrl(): String {
