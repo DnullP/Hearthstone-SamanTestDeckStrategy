@@ -1,3 +1,6 @@
-### 套牌插件市场
+# 测试用萨满插件
 
-> 适用于[Hearthstone-Script](https://github.com/xjw580/Hearthstone-Script)项目
+目前正在为大哥萨适配策略.
+
+卡组代码:
+> AAEBAdOLBQiTCdy4A+m2BLzOBL/OBPajBsekBuupBgvvAZQDkQ7OD/a9Ao+UA9b1A7y2BPTyBeqYBqSnBgABA/SzBsekBvezBsekBujeBsekBgAA
